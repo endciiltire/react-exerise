@@ -2,6 +2,7 @@
 import Bloge from "./exercise-2/Blog"  
 import Prop from "./exercise-3/prop"
 import Shide from "./exercise-4/Off"
+import Shopp from "./exercise-5/Shopp"
 function App() {
 
 
@@ -23,7 +24,8 @@ function App() {
     // </>
 
     <>
-    <Shide></Shide>
+     {/* <Shide></Shide>  */}
+     <Shopp> </Shopp>
     </>
 
   )
