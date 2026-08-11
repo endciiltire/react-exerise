@@ -4,7 +4,8 @@
 // import Shide from "./exercise-4/Off"
 // import Shopp from "./exercise-5/Shopp"
 // import Title from "./exrcise-6/Title"
-import Mouse from "./exercise-7/Mouse"
+// import Mouse from "./exercise-7/Mouse"
+import Timer from "./exercise-8/timer"
 function App() {
 
 
@@ -30,7 +31,8 @@ function App() {
       {/* <Shide></Shide>  */}
       {/* <Shopp> </Shopp> */}
       {/* <Title></Title> */}
-      <Mouse></Mouse>
+      {/* <Mouse></Mouse> */}
+      <Timer></Timer>
 
     </>
 
