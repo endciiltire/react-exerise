@@ -5,7 +5,8 @@
 // import Shopp from "./exercise-5/Shopp"
 // import Title from "./exrcise-6/Title"
 // import Mouse from "./exercise-7/Mouse"
-import Timer from "./exercise-8/timer"
+// import Timer from "./exercise-8/timer"
+import GitH from "./exercise-9/Git"
 function App() {
 
 
@@ -32,7 +33,8 @@ function App() {
       {/* <Shopp> </Shopp> */}
       {/* <Title></Title> */}
       {/* <Mouse></Mouse> */}
-      <Timer></Timer>
+      {/* <Timer></Timer> */}
+      <GitH></GitH>
 
     </>
 
