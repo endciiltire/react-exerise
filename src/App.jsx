@@ -7,6 +7,7 @@
 // import Mouse from "./exercise-7/Mouse"
 // import Timer from "./exercise-8/timer"
 // import LoginForm from "./exercise-11/LoginForm"
+import Count from "./exercise-13/Count"
 import Counting from "./exercise-12/couting"
 function App() {
 
@@ -38,7 +39,8 @@ function App() {
       {/* <GitH></GitH> */}
       {/* <LoginForm></LoginForm>
        */}\
-       <Counting></Counting>
+       {/* <Counting></Counting> */}
+        <Count></Count>
 
     </>
 
