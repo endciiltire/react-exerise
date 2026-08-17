@@ -1,11 +1,11 @@
-import ContactForm from "./exercise-17/ContactForm";
+import ContactApp from './exercise-18/ContactApp';
 
-function App() {
+const App = () => {
   return (
     <div>
-      <ContactForm />
+    <ContactApp></ContactApp>
     </div>
   );
-}
+};
 
 export default App;
