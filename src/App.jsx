@@ -1,9 +1,9 @@
-import ContactApp from './exercise-18/ContactApp';
+import TodoApp from "./exercise-19/TodoApp";
 
 const App = () => {
   return (
     <div>
-    <ContactApp></ContactApp>
+      <TodoApp />
     </div>
   );
 };
