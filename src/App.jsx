@@ -1,8 +1,8 @@
-import TodoApp from "./exercise-19/TodoApp";
+import TodoApp from "./exercise-20/TodoApp";
 
 const App = () => {
   return (
-    <div>
+    <div className="">
       <TodoApp />
     </div>
   );
